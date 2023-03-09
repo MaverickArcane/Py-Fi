@@ -1,6 +1,6 @@
 # Py-Fi - Simple Vulnerable Python Server
 A simple python HTTP server made from the ground up. To make this a bit harder, I decided to implement multithreading & logging as well!
-This server is vulnerable to an extremely simple vulnearbility.
+This server is vulnerable to an extremely simple exploit.
 
 ## Old Purpose
 This repo is for me to learn the basics of HTTP a little better. Credit to João Ventura (https://www.codementor.io/@joaojonesventura/building-a-basic-http-server-from-scratch-in-python-1cedkg0842) for hosting a fantastic blog to help!
