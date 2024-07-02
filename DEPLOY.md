@@ -1,3 +1,4 @@
+# Building
 docker build -t py-fi .
 docker run --rm -p 8000:8000 --name py-fi py-fi
 
